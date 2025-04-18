@@ -478,7 +478,7 @@ const result=Object.values(
 [ { Sno: 1, score: 70 }, { Sno: 2, score: 30 } ]
 
 ```
-## 22. Way to split string
+## 22. Way to split string in character
 
 ```javascript
 let str="Kuldeep";
