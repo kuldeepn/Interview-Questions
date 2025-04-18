@@ -486,6 +486,7 @@ for(let char of str){
     console.log(char)
 }
 ```
+## Output
 ```output
 K
 u
@@ -495,3 +496,24 @@ e
 e
 p
 ```
+
+## 23. Easy way to find the even/odd number
+
+```javascript
+for(var i=1;i<=10;i++){
+    if(i%2 == 0){
+        console.log(i)
+    }
+}
+```
+## Output & Explanation
+```output
+2
+4
+6
+8
+10
+Explanation -> if(i%2 !== 0) it will give odd number
+```
+
+
